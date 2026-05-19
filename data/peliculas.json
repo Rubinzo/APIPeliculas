@@ -1,0 +1,22 @@
+[
+  { "id": 1, "titulo": "Matrix", "director": "Wachowski", "anio": 1999 },
+  { "id": 2, "titulo": "Interstellar", "director": "Christopher Nolan", "anio": 2014 },
+  { "id": 3, "titulo": "Inception", "director": "Christopher Nolan", "anio": 2010 },
+  { "id": 4, "titulo": "The Dark Knight", "director": "Christopher Nolan", "anio": 2008 },
+  { "id": 5, "titulo": "Pulp Fiction", "director": "Quentin Tarantino", "anio": 1994 },
+  { "id": 6, "titulo": "Fight Club", "director": "David Fincher", "anio": 1999 },
+  { "id": 7, "titulo": "Forrest Gump", "director": "Robert Zemeckis", "anio": 1994 },
+  { "id": 8, "titulo": "Gladiator", "director": "Ridley Scott", "anio": 2000 },
+  { "id": 9, "titulo": "Titanic", "director": "James Cameron", "anio": 1997 },
+  { "id": 10," titulo": "Avatar", "director": "James Cameron", "anio": 2009 },
+  { "id": 11," titulo": "The Godfather", "director": "Francis Ford Coppola", "anio": 1972 },
+  { "id": 12," titulo": "The Godfather Part II", "director": "Francis Ford Coppola", "anio": 1974 },
+  { "id": 13," titulo": "The Shawshank Redemption", "director": "Frank Darabont", "anio": 1994 },
+  { "id": 14," titulo": "The Lord of the Rings: The Fellowship of the Ring", "director": "Peter Jackson", "anio": 2001 },
+  { "id": 15," titulo": "The Lord of the Rings: The Two Towers", "director": "Peter Jackson", "anio": 2002 },
+  { "id": 16," titulo": "The Lord of the Rings: The Return of the King", "director": "Peter Jackson", "anio": 2003 },
+  { "id": 17," titulo": "Star Wars: A New Hope", "director": "George Lucas", "anio": 1977 },
+  { "id": 18," titulo": "The Empire Strikes Back", "director": "Irvin Kershner", "anio": 1980 },
+  { "id": 19," titulo": "Jurassic Park", "director": "Steven Spielberg", "anio": 1993 },
+  { "id": 20," titulo": "The Social Network", "director": "David Fincher", "anio": 2010 }
+]
